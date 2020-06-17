@@ -1,3 +1,3 @@
 # @loskir/vue-emoji-picker demo
 
-[@loskir/vue-emoji-picker](https://github.com/loskir/vue-emoji-picker)
+Demo for [@loskir/vue-emoji-picker](https://npmjs.com/package/@loskir/vue-emoji-picker)
