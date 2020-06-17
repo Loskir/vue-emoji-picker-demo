@@ -7,6 +7,8 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@loskir/emoji-picker": "^1.0.3",
+    "@loskir/emoji-sprite-stylesheet": "^1.0.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
