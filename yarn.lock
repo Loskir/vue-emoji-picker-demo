@@ -64,10 +64,15 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
-"@loskir/emoji-picker@^1.0.3":
+"@loskir/emoji-sprite-stylesheet@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@loskir/emoji-sprite-stylesheet/-/emoji-sprite-stylesheet-1.0.0.tgz#b11da5e6bd85b97baad438a04cf473faec4b59ba"
+  integrity sha512-ms7bd2sJ8VhqxVcC8h3Xftt3qWfdm+GKLgj4vqKbi+vEeONlIxzrSgCLwSkqMyPPP37cxJjRxgxQQMR+JKYQwg==
+
+"@loskir/vue-emoji-picker@^1.0.3":
   version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@loskir/emoji-picker/-/emoji-picker-1.0.3.tgz#92847a764c886c4c8347389aff5275cfe6f31df7"
-  integrity sha512-IfqmfrHtLuPTXRQzss8yCNOlMtddvh51gJAms9OBtK7NMkycmBhDvCAsPg6jRaotw+D957A/cnbNi0X9PaJLjg==
+  resolved "https://registry.yarnpkg.com/@loskir/vue-emoji-picker/-/vue-emoji-picker-1.0.3.tgz#3943712d0d351f29b610b188c9adc8295471de39"
+  integrity sha512-2irgPQ+0T19/dsaSDESZ5CmfQVe12yS4pUsgK6mLCWDIa+wrbc5jvaTz3qQpVGtpPvo18qeXfGwWY0YW7W2TSA==
   dependencies:
     "@loskir/emoji-sprite-stylesheet" "^1.0.0"
     intersection-observer "^0.10.0"
@@ -75,11 +80,6 @@
     stylus-loader "^3.0.2"
     vue "^2.6.11"
     vue-observe-visibility "^0.4.6"
-
-"@loskir/emoji-sprite-stylesheet@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@loskir/emoji-sprite-stylesheet/-/emoji-sprite-stylesheet-1.0.0.tgz#b11da5e6bd85b97baad438a04cf473faec4b59ba"
-  integrity sha512-ms7bd2sJ8VhqxVcC8h3Xftt3qWfdm+GKLgj4vqKbi+vEeONlIxzrSgCLwSkqMyPPP37cxJjRxgxQQMR+JKYQwg==
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
