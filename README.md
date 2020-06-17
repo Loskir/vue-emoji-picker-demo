@@ -1,19 +1,3 @@
-# emoji-picker-example
+# @loskir/vue-emoji-picker demo
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[@loskir/vue-emoji-picker](https://github.com/loskir/vue-emoji-picker)
