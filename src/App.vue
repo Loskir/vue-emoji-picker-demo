@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>@Loskir/emoji-picker</h1>
+    <h1>@Loskir/vue-emoji-picker</h1>
     <p>Emoji picker for vue</p>
 
     <EmojiPickerButton v-for="i in 5" :id="i" :key="i"/>
